@@ -1,6 +1,19 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=1000&lines=root%40ARIYAN%3A~%24+./start.sh;Loading+Python+Developer...;Loading+Cyber+Security+Learner...;Access+Granted+%E2%9C%93;Welcome+ARIYAN+SIAM" />
-</p>
+<div align="center">
+
+```text
+root@ariyan:~$ whoami
+ARIYAN SIAM
+
+root@ariyan:~$ skills
+Python • Linux • Termux • GitHub
+
+root@ariyan:~$ status
+Learning Cyber Security...
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF00&center=true&width=900&lines=%24+Initializing+System...;%24+Loading+Developer+Profile...;%24+Welcome+To+Ariyan+Siam's+Profile" />
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=👑+ELITE+PYTHON+DEVELOPER;🚀+AUTOMATION+SPECIALIST;🛡️+CYBER+SECURITY+LEARNER;⚡+TERMUX+POWER+USER;💎+BUILDING+THE+FUTURE+WITH+CODE"/>
 
