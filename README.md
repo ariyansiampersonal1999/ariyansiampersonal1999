@@ -1,6 +1,6 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=ARIYAN%20SIAM&fontSize=75&fontColor=FFD700&animation=fadeIn&fontAlignY=40"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=1000&lines=root%40ARIYAN%3A~%24+./start.sh;Loading+Python+Developer...;Loading+Cyber+Security+Learner...;Access+Granted+%E2%9C%93;Welcome+ARIYAN+SIAM" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=👑+ELITE+PYTHON+DEVELOPER;🚀+AUTOMATION+SPECIALIST;🛡️+CYBER+SECURITY+LEARNER;⚡+TERMUX+POWER+USER;💎+BUILDING+THE+FUTURE+WITH+CODE"/>
 
