@@ -1,17 +1,6 @@
 <div align="center">
 
-```text
-root@ariyan:~$ whoami
-ARIYAN SIAM
-
-root@ariyan:~$ skills
-Python • Linux • Termux • GitHub
-
-root@ariyan:~$ status
-Learning Cyber Security...
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF00&center=true&width=900&lines=%24+Initializing+System...;%24+Loading+Developer+Profile...;%24+Welcome+To+Ariyan+Siam's+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=root%40ariyan%3A~%24+whoami;ARIYAN+SIAM;Python+Developer+%7C+Cyber+Security+Learner" />
 
 </div>
 
