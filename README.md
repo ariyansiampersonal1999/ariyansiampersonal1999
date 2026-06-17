@@ -1,6 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=ARIYAN%20SIAM&fontSize=75&fontColor=FFD700&animation=fadeIn&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=65&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&height=120&lines=👑+ARIYAN+SIAM+👑" />
 
