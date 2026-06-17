@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=root%40ariyan%3A~%24+whoami;ARIYAN+SIAM;Python+Developer+%7C+Cyber+Security+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=55&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1400&height=150&lines=root%40ARIYAN%3A~%24;ARIYAN+SIAM;HACKER+MODE+ACTIVATED;PYTHON+DEVELOPER;CYBER+SECURITY+LEARNER" />
 
 </div>
 
